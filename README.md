@@ -1,9 +1,1 @@
-<DOCTYPE! HTML>
-<html>
-  <head>>
-  
-  </head>
-  
-  <body></body>
-  
-</html>
+<txt> Hello. I Am a [Artist] And [Programmer] I Also Like To Do [Music] </txt>
